@@ -21,12 +21,16 @@ It's in alpha, but if you want it download it from GitHub Actions
     - [ ] Ketchup Bottle - Food, gives more nutrition than the ketchup packet, used to light ketchup portal (wip, no texture)
     - [x] Block of Ketchup - Used to make ketchup portal for ketchup dimension
     - [ ] Ketchup Addiction - Makes food give half the nutrition, and doubles ketchup's nutrition
-    - [ ] Ketchup Dimension - **k e t c h u p** (wip, make lava evaporate and water flow faster)
-       - [ ] Mustard Biome - hostile biome
-       - [ ] Relish Biome - somewhat peaceful biome
-          - [ ] Orphero
+    - [ ] Ketchup Dimension - **k e t c h u p** (wip, make lava evaporate and water flow faster, change terrain generation to nullscape stuff)
+       - [ ] Mustard Marshland Biome - hostile biome
+       - [ ] Relish Ranges Biome - somewhat peaceful biome, mountainous
+          - [ ] Orphero (goober) Flying Boss
+       - [ ] Mustard Marshland - swampy biome
+       - [ ] Barbeque Badlands
+          - [ ] Suburban neighborhood
+          - [ ] Grill Mob - shoots steak at you
     - [ ] Ketchup Portal - Portal to the Ketchup Dimension. (wip, portal block not translucent)
- - [ ] Paint - Weirder splash potion
+ - [ ] Paint - Weirder splash potion crafted with lead.
  - [ ] Baguette - l o n g bread
  - [ ] Oil
     - [ ] Oil derrick - Used to extract oil. (wip)
@@ -34,5 +38,12 @@ It's in alpha, but if you want it download it from GitHub Actions
     - [ ] Pollution - World gets more polluted with more oil extracted and fuel burned.
     - [ ] Americans - Randomly spawns after some amount of time to steal your oil
        - [ ] Guns
+ - [ ] Lead
+    - [ ] Lead Poisoning
+    - [ ] Lead Pipes - Fluid transport block.
+       - [ ] Leaded Water - Get lead poisoning when swam in.
+ - [ ] Uranium
+    - [ ] Yellow Cake Uranium - Food with 0 nutrition, but radiation poisining.
+    - [ ] Radiation Poisoning
 
 Have any ideas? Suggest one [here](https://github.com/APie357/Something-Mod/issues/new?assignees=APie357&labels=enhancement&projects=&template=feature_request.md&title=%5BFEATURE%5D+Short+description+of+new+feature+%5Be.g.+Add+tomato+hoe+to+game)!
