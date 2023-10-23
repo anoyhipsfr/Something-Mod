@@ -47,3 +47,5 @@ It's in alpha, but if you want it download it from GitHub Actions
     - [ ] Radiation Poisoning
 
 Have any ideas? Suggest one [here](https://github.com/APie357/Something-Mod/issues/new?assignees=APie357&labels=enhancement&projects=&template=feature_request.md&title=%5BFEATURE%5D+Short+description+of+new+feature+%5Be.g.+Add+tomato+hoe+to+game)!
+
+Credits: [CREDITS.md](https://github.com/anoyhipsfr/Something-Mod/blob/master/CREDITS.md)
